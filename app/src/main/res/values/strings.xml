@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EnergyUsageApp</string>
+    <string name="about_dev">Jack Taylor \nDeveloper</string>
+    <string name="home_heading">Heading</string>
 </resources>
